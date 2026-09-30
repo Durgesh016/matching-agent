@@ -1,0 +1,419 @@
+# Common job skills, used together with the skills in
+# "Roles & Skills.pdf" to find skills in job descriptions.
+#
+# Skills found here but NOT in the PDF are reported as
+# "Missing Skills". Add one skill per line; lines starting
+# with # are ignored. Avoid everyday words ("support",
+# "teams") because they match almost every job posting.
+
+# ---------- IT support / end-user ----------
+Active Directory
+Azure AD
+Entra ID
+Microsoft 365
+Office 365
+Microsoft Office 365
+Microsoft Office
+Microsoft Excel
+Excel
+Microsoft Word
+Word
+Microsoft Outlook
+Outlook
+Microsoft PowerPoint
+PowerPoint
+Microsoft Teams
+Microsoft Access
+SharePoint
+OneDrive
+Microsoft Exchange
+Exchange Online
+Google Workspace
+G Suite
+Windows 10
+Windows 11
+Windows Server
+macOS
+Linux
+iOS
+Android
+Intune
+SCCM
+MECM
+Jamf
+MDM
+ServiceNow
+Jira
+Jira Service Management
+Zendesk
+Freshdesk
+BMC Remedy
+ITIL
+Ticketing
+Help Desk
+Service Desk
+Desktop Support
+Troubleshooting
+Hardware Troubleshooting
+Printers
+Remote Desktop
+TeamViewer
+Citrix
+VMware
+Hyper-V
+Okta
+Multi-factor Authentication
+Group Policy
+PowerShell
+Bash
+Shell Scripting
+Asset Management
+Customer Service
+CompTIA A+
+
+# ---------- Networking ----------
+TCP/IP
+DNS
+DHCP
+LAN
+WAN
+VLANs
+VPN
+Wi-Fi
+Routers
+Switches
+Routing and Switching
+Firewalls
+Cisco
+Cisco IOS
+Juniper
+Fortinet
+Palo Alto
+Meraki
+Aruba
+CCNA
+CCNP
+Network+
+Security+
+OSPF
+BGP
+SD-WAN
+Load Balancing
+Wireshark
+SNMP
+Network Monitoring
+Network Security
+Structured Cabling
+Fiber Optics
+PoE
+QoS
+
+# ---------- Systems / cloud / DevOps ----------
+AWS
+Azure
+Google Cloud
+Docker
+Kubernetes
+Terraform
+Ansible
+Puppet
+Jenkins
+Git
+GitHub
+GitLab
+CI/CD
+DevOps
+RHEL
+Ubuntu
+CentOS
+Debian
+Unix
+AIX
+Solaris
+Nagios
+Zabbix
+Splunk
+Datadog
+Grafana
+Prometheus
+Veeam
+Backup and Recovery
+Patch Management
+Virtualization
+Nutanix
+
+# ---------- Databases ----------
+SQL
+MySQL
+PostgreSQL
+SQL Server
+Oracle Database
+Oracle SQL
+PL/SQL
+T-SQL
+MongoDB
+Redis
+NoSQL
+SSIS
+SSRS
+ETL
+Data Warehouse
+Snowflake
+Teradata
+DB2
+Database Administration
+Crystal Reports
+
+# ---------- Programming ----------
+Python
+Java
+JavaScript
+TypeScript
+C++
+C#
+.NET
+Golang
+Ruby
+PHP
+Perl
+HTML
+CSS
+React
+Angular
+Node.js
+Django
+Flask
+REST API
+JSON
+XML
+
+# ---------- Embedded / electronics ----------
+Embedded C
+Embedded Linux
+RTOS
+FreeRTOS
+Yocto
+MATLAB
+Simulink
+LabVIEW
+UART
+SPI
+I2C
+CAN bus
+Firmware
+Microcontrollers
+FPGA
+Verilog
+VHDL
+PCB
+PCB Design
+Altium
+KiCad
+Oscilloscopes
+Multimeters
+Logic Analyzer
+Soldering
+IPC-A-610
+J-STD-001
+Schematics
+AutoCAD
+SolidWorks
+PLC
+PLC Programming
+SCADA
+HMI
+
+# ---------- Data / reporting ----------
+Power BI
+Tableau
+Looker
+QlikView
+Qlik Sense
+Google Analytics
+Data Analysis
+Data Entry
+Pivot Tables
+VLOOKUP
+Machine Learning
+Pandas
+
+# ---------- SAP / ERP ----------
+SAP
+SAP S/4HANA
+SAP ECC
+SAP MM
+SAP SD
+SAP FI
+SAP CO
+SAP FICO
+SAP PP
+SAP QM
+SAP PM
+SAP WM
+SAP EWM
+SAP HCM
+SAP SuccessFactors
+SAP Ariba
+SAP BW
+SAP BTP
+SAP ABAP
+ABAP
+SAP Fiori
+SAP GRC
+SAP MDG
+SAP BusinessObjects
+Oracle EBS
+NetSuite
+Microsoft Dynamics
+Dynamics 365
+Business Central
+Workday
+PeopleSoft
+Epicor
+JD Edwards
+ERP
+MRP
+EDI
+
+# ---------- CRM / marketing ----------
+CRM
+Salesforce
+HubSpot
+Zoho CRM
+Marketo
+Mailchimp
+SEO
+SEM
+Google Ads
+Facebook Ads
+Social Media Marketing
+Content Marketing
+Email Marketing
+Canva
+Adobe Creative Suite
+Adobe Photoshop
+Adobe Illustrator
+Adobe InDesign
+Premiere Pro
+Figma
+WordPress
+Hootsuite
+Copywriting
+Google Tag Manager
+A/B Testing
+
+# ---------- Project coordination ----------
+Agile
+Scrum
+Kanban
+Waterfall
+Confluence
+Asana
+Trello
+Monday.com
+Smartsheet
+Microsoft Project
+MS Project
+PMP
+PRINCE2
+Six Sigma
+Lean Six Sigma
+Gantt Charts
+Risk Management
+Stakeholder Management
+UAT
+Visio
+
+# ---------- Lab / quality / manufacturing ----------
+GMP
+cGMP
+GLP
+GDP
+SOPs
+ISO 9001
+ISO 13485
+FDA
+CAPA
+Root Cause Analysis
+FMEA
+IQ/OQ/PQ
+Calibration
+Quality Control
+Quality Assurance
+QA/QC
+LIMS
+LIS
+Specimen Processing
+Phlebotomy
+Microscopy
+PCR
+HPLC
+Pipetting
+Sample Preparation
+OSHA
+CMM
+FAI
+Lean Manufacturing
+5S
+Kaizen
+Injection Molding
+Blueprint Reading
+Calipers
+Micrometers
+Power Tools
+Forklift
+
+# ---------- Logistics / supply chain ----------
+Supply Chain
+Supply Chain Management
+Inventory Management
+Inventory Control
+Warehouse Management
+WMS
+Procurement
+Purchasing
+Logistics
+Freight
+Import/Export
+Customs Clearance
+Demand Planning
+Forecasting
+Vendor Management
+Order Management
+RMA
+FIFO
+LTL
+
+# ---------- Data center ----------
+UPS
+PDUs
+HVAC
+Generators
+Cooling Systems
+Power Distribution
+Rack and Stack
+Server Hardware
+Cable Management
+OTDR
+BMS
+DCIM
+
+# ---------- Telecom / voice ----------
+VoIP
+SIP
+IVR
+PBX
+Avaya
+Genesys
+Five9
+Contact Center
+Unified Communications
+5G
+LTE
+
+# ---------- Security ----------
+Cybersecurity
+SIEM
+Endpoint Protection
+Vulnerability Management
+Identity and Access Management

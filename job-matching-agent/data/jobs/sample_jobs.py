@@ -1,0 +1,34 @@
+from app.models.schemas import JobPosting
+
+jobs = [
+    JobPosting(
+        title="IT Support Technician",
+        company="ABC Technologies",
+        location="Hyderabad",
+        experience="Entry Level",
+        posted_date="2026-09-22",
+        description="Provide technical support to employees and troubleshoot Windows and Microsoft 365 issues.",
+        skills=["Windows 10/11", "Microsoft 365", "Outlook"],
+        source_url="https://example.com/job1",
+    ),
+    JobPosting(
+        title="Technical Support Engineer",
+        company="XYZ Solutions",
+        location="Bangalore",
+        experience="0-1 years",
+        posted_date="2026-09-22",
+        description="Troubleshoot operating systems, networking and technical issues.",
+        skills=["Windows Troubleshooting", "MacOS", "DNS", "LAN"],
+        source_url="https://example.com/job2",
+    ),
+    JobPosting(
+        title="SAP Support Consultant",
+        company="Tech Services",
+        location="Hyderabad",
+        experience="1-3 years",
+        posted_date="2026-09-21",
+        description="Provide SAP application and business process support.",
+        skills=["SAP", "S/4HANA"],
+        source_url="https://example.com/job3",
+    ),
+]
